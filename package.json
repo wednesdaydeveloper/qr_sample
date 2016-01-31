@@ -1,16 +1,11 @@
 {
   "name": "qr_sample",
   "version": "1.0.0",
-<<<<<<< HEAD
   "description": ",-----.,--.                  ,--. ,---.   ,--.,------.  ,------.     '  .--./|  | ,---. ,--.,--. ,-|  || o   \\  |  ||  .-.  \\ |  .---'     |  |    |  || .-. ||  ||  |' .-. |`..'  |  |  ||  |  \\  :|  `--,      '  '--'\\|  |' '-' ''  ''  '\\ `-' | .'  /   |  ||  '--'  /|  `---.      `-----'`--' `---'  `----'  `---'  `--'    `--'`-------' `------'     -----------------------------------------------------------------",
-=======
-  "description": "",
->>>>>>> 8914cbaf464f8a15d318fa9316a03e0390e35a8c
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-<<<<<<< HEAD
   "author": "",
   "license": "ISC",
   "dependencies": {
@@ -19,19 +14,4 @@
   "devDependencies": {
     "socket.io": "^1.4.5"
   }
-=======
-  "repository": {
-    "type": "git",
-    "url": "git+https://github.com/wednesdaydeveloper/qr_sample.git"
-  },
-  "author": "",
-  "license": "ISC",
-  "bugs": {
-    "url": "https://github.com/wednesdaydeveloper/qr_sample/issues"
-  },
-  "dependencies": {
-    "qrcode": "^0.4.2"
-  },
-  "homepage": "https://github.com/wednesdaydeveloper/qr_sample#readme"
->>>>>>> 8914cbaf464f8a15d318fa9316a03e0390e35a8c
 }
