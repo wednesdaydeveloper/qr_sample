@@ -1,4 +1,3 @@
-
 var http = require( 'http' );           //  HTTPモジュール読み込み
 var QRCode = require('qrcode');         //  QRコードモジュール読み込み
 var socketio = require( 'socket.io' );  //  Socket.IOモジュール読み込み
